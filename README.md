@@ -4,3 +4,5 @@ Contribute project ideas or just general problem statements to make visible to t
 #How to add project ideas/problem statements
 
 1. Select the issues tab 
+2. Once in issues, click the green "New Issue" button
+3. 
