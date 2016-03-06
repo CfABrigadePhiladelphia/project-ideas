@@ -13,4 +13,4 @@ Contribute project ideas or just general problem statements to make visible to t
 
 If you don't have an idea to submit, you can contribute to project ideas by leaving feedback, suggesting additional ideas and considerations, and +1'ing ideas in the comments. 
 
-Just keep in mind that any discussion must follow the Code for Philly [Code of Conduct](https://codeforphilly.org/pages/code_of_conduct). And if it doesn't, we'll happily remove it (and potentially you) from the group. We're serious about keeping our channels friendly and welcoming to everyone. 
+Just keep in mind that any discussion must follow the Code for Philly [Code of Conduct](https://codeforphilly.org/pages/code_of_conduct). And if it doesn't, we'll happily remove it (and potentially you) from the group. We're serious about keeping our channels friendly, welcoming, and respectful to everyone. 
